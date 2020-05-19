@@ -11,6 +11,7 @@ global-styling:
     js/ext-win-script.js: { minified: true }
     js/empty-tags-script.js: { minified: true }
     js/table-xscroll.js: { minified: true }
+    js/thwoop-images.js: { minified: true }
   dependencies:
     - core/drupal
     - core/jquery
